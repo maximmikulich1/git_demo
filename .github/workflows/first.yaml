@@ -1,4 +1,4 @@
-name: Check remote hosts and push reports
+name: Check remote hosts and push report
 
 on:
   push:
